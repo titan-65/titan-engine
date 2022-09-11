@@ -8,5 +8,10 @@ class TitanEngine {
         this.timer = {
             specialMode: 0
         }
+        this.state = {}
+    }
+
+    get gameState() {
+
     }
 }
